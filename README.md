@@ -15,7 +15,7 @@ Our approach combines:
 - **PGI-Enhanced GELAN Backbone**: Maintains fine-grained representations throughout the network hierarchy using Programmable Gradient Information modules
 - **FiLM-Driven Path Aggregation Network (FiLM-PAN)**: Leverages semantic embeddings to perform channel-wise affine recalibration during multiscale feature fusion at linear computational complexity
 
-![Architecture](assets/architecture.png)
+![Main Architecture Design](https://github.com/user-attachments/assets/2c75175b-1ef0-4fa9-a54c-66abe3d67574)
 
 ## Key Results
 
